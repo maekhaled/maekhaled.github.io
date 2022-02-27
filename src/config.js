@@ -74,11 +74,11 @@ module.exports = {
         id: '3270091161' // Please remove this and use your own tag id or keep it empty
     },
     themeConfig: {
-        default: 'light',
+        default: 'garden',
 
         // Hides the switch in the navbar
         // Useful if you want to support a single color mode
-        disableSwitch: false,
+        disableSwitch: true,
 
         // Should we use the prefers-color-scheme media-query,
         // using user system preferences, instead of the hardcoded default
