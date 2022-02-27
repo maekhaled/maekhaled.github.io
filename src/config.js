@@ -5,7 +5,7 @@ module.exports = {
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
-            forks: false, // Forked projects will not be displayed if set to true.
+            forks: true, // Forked projects will not be displayed if set to true.
             projects: ['laravel-ecommerce'] // These projects will not be displayed. example: ['my-project1', 'my-project2']
         }
     },
@@ -66,16 +66,12 @@ module.exports = {
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
         source: 'dev.to', // medium | dev.to
-        username: 'arifszn',
+        username: 'maekhaled',
         limit: 3 // How many posts to display. Max is 10.
     },
     googleAnalytics: {
         // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-        id: 'G-WLLB5E14M6' // Please remove this and use your own tag id or keep it empty
-    },
-    hotjar: {
-        id: '2617601', //  Please remove this and use your own id or keep it empty
-        snippetVersion : 6
+        id: '3270091161' // Please remove this and use your own tag id or keep it empty
     },
     themeConfig: {
         default: 'light',
