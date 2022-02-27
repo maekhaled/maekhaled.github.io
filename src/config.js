@@ -22,18 +22,14 @@ module.exports = {
         email: 'mkhaled1579@gmail.com'
     },
     skills: [
-        'PHP',
-        'Laravel',
-        'JavaScript',
-        'React.js',
-        'Node.js',
+        'Java',
+        'C',
+        'Python',
+        'MATLAB',
         'MySQL',
         'Git',
-        'Docker',
-        'CSS',
-        'Antd',
-        'Tailwind',
-        'Bootstrap',
+        'HTML',
+        'CSS'
     ],
     experiences: [
         { 
