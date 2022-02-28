@@ -34,7 +34,7 @@ module.exports = {
     experiences: [
         { 
             company: 'Tesla',
-            position: 'Manufacturing Engineering Inern',
+            position: 'Manufacturing Engineering Intern',
             from: 'August 2021',
             to: 'Present'
         },
