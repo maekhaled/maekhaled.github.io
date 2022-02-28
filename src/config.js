@@ -17,7 +17,7 @@ module.exports = {
         behance: '',
         medium: '',
         devto: '',
-        website: 'https://maekhaled.com',
+        website: 'www.maekhaled.com',
         phone: '732-925-5604',
         email: 'mkhaled1579@gmail.com'
     },
