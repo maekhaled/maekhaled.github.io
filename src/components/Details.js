@@ -238,7 +238,7 @@ const Details = (props) => {
                                                 </div>
                                                 <div>
                                                     <a
-                                                        href={'https://${config.social.website}`}
+                                                        href={`https://${config.social.website}`}
                                                         target="_blank"
                                                         rel="noreferrer"
                                                         className="text-base-content-important"
